@@ -2,4 +2,3 @@ streamlit
 speechrecognition
 gTTS
 openai
-pyaudio
